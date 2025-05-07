@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-class Krab {
+class Swag {
  string name;
 public:
  void res()
@@ -13,7 +13,7 @@ public:
 int main()
 {
  setlocale(LC_ALL, "Russian");
- Krab k;
+ Swag k;
  k.res();
  
 }
